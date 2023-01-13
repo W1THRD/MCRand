@@ -1,5 +1,5 @@
 # Here is my overly-messy code...
-import json, random
+import json, random, textures
 from collections import OrderedDict 
 
 # Small Text Randomizer
@@ -52,6 +52,9 @@ with open("./Pack/assets/minecraft/texts/postcredits.txt",'r+', encoding="utf8")
 with open('./Pack/assets/minecraft/texts/postcredits.txt', 'w', encoding="utf8") as f:
     for line in postc:
         f.write(f"{line}\n")
+# Randomizing images
+textures.shuffleImages()
+
 
 print("Done!")
 input("Press Enter to quit")
