@@ -20,4 +20,4 @@ If you don't want to run the python script, you can just use the pre-made random
 ## Current features:
 - Randomizes small text (anything contained in assets/minecraft/lang/en_us.json)
 - Randomizes large texts (anything contained in assets/minecraft/texts/, excluding Minecraft's credits)
-- Textures under the minecraft namespace (not realms) of these categories: block, effect, item, map, mob_effect, particle
+- ALL textures under the minecraft namespace (not realms)
