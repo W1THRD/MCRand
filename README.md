@@ -12,7 +12,7 @@ A little minecraft text randomizer! I'm not sure if it works on Linux or Mac, bu
 
 ## Easier instructions
 If you don't want to run the python script, you can just use the pre-made randomized pack:
-1. Download the files
+1. Download the files (in the releases tab, get pack.zip)
 2. Put the Pack folder into your .minecraft/resourcepacks folder, and load into the game
 3. Enable the resource pack in settings, and enjoy!
 
